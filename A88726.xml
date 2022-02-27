@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last great and bloudy fight between the English and the Dutch, on Thursday morning last neer the Downs: with the particulars thereof, the number of men killed and wounded on the Parliaments side; and the taking, burning, sinking, and dispiersing of five and forty sayl of the Hollanders by Sir George Ayscue: with his pursuing of Van-Trump to the coast of France; and 24 of his men of war shipwrackt neer St. Mallows; also a great victory obtained by G. Blake; the number of ships taken; and a general rising of the Dutch-men; their choosing of a new admiral; and all persons to die without mercy that will not engage. Sent in a letter to the Parliament of England, and the Councell of State, on Sabbath-day; and printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88726</idno>
+            <idno type="STC">Wing L487</idno>
+            <idno type="STC">Thomason E669_12</idno>
+            <idno type="STC">ESTC R207029</idno>
+            <idno type="EEBO-CITATION">99866104</idno>
+            <idno type="PROQUEST">99866104</idno>
+            <idno type="VID">118366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118366)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E669[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last great and bloudy fight between the English and the Dutch, on Thursday morning last neer the Downs: with the particulars thereof, the number of men killed and wounded on the Parliaments side; and the taking, burning, sinking, and dispiersing of five and forty sayl of the Hollanders by Sir George Ayscue: with his pursuing of Van-Trump to the coast of France; and 24 of his men of war shipwrackt neer St. Mallows; also a great victory obtained by G. Blake; the number of ships taken; and a general rising of the Dutch-men; their choosing of a new admiral; and all persons to die without mercy that will not engage. Sent in a letter to the Parliament of England, and the Councell of State, on Sabbath-day; and printed according to order.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 6".</note>
+                  <note>With a titlepage woodcut.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653 --  Early works to 1800.</term>
+               <term>Blake, Robert, 1599-1657 --  Early works to 1800.</term>
+               <term>Ayscue, George, --  Sir, fl. 1646-1671 --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118366:1" rendition="simple:additions"/>
+            <p>The laſt great and BLOUDY FIGHT BETWEEN The Engliſh and the Dutch, on Thurſday morning laſt neer the Downs: With the particulars thereof, the number of men killed and wounded on the Parliaments ſide; and the taking, burning, ſinking, and diſpierſing of five and forty Sayl of the Hollanders by Sir George Ayſcue: With his purſuing of Van-Trump to the Coaſt of France; and 24 of his Men of War ſhipwrackt neer St. Mallows; Alſo, a gr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Victory obtained by G. Blake; the number of ſhips taken; and a general Riſing of the Dutch-men; their chooſing of a new Admiral; and all perſons to die without mercy that will not en<g ref="char:EOLhyphen"/>gage. <hi>SEnt in a Letter to the Parliament of England, and the Councell of State, on Sabbath-day laſt; and printed according to order.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a ship or galleon with many guns or cannons, flying a flag with a cross</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118366:2"/>
+            <pb n="3" facs="tcp:118366:2"/>
+            <head>Another bloudy Fight at Sea between the Engliſh and the Dutch upon the Coaſt of Holland: With the deſperate en<g ref="char:EOLhyphen"/>gagement of the Engliſh Redcoats; the boarding of the Flemmins; the diſperſing of the Navy; and the re-inforcing of di<g ref="char:EOLhyphen"/>vers gallant ſhips into their Harbors.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Excellency Gen. Blake having divided the Navy into two Squa<g ref="char:EOLhyphen"/>drons, reſolved with the one to ſtrike ſayl for the North Coaſt, to fight &amp; attend the motion of 300 ſail of the Dutch, in thoſe parts, leaving ſir G. Aſcue to com<g ref="char:EOLhyphen"/>mand the reſt of the ſhiping in the Downs,
+<pb n="4" facs="tcp:118366:3"/>which conſiſted of 30 gallant Men of War; Vantrump having received intelligence thereof, drew forth 40 ſelect &amp; choice ſhips, and on Thurſday about five of the clock in the morning, our Scouts made a diſcovery of his approach neer the Channel, who giv<g ref="char:EOLhyphen"/>ing notice thereof to the Navy, great was the preparation made to receive them; and in purſuance thereof, ſir Geo. Ayſcue, with the Fairfax and Tryumph, bore up to them, before the head of the Fleet, and gave them 50 Guns, but was anſwer'd with the like ſa<g ref="char:EOLhyphen"/>lute from Vantrump, and Vice-admiral Witte, who upon hanging forth their blou<g ref="char:EOLhyphen"/>dy flags, was the ſignal for the reſt of their Captains to fall on; inſomuch, that a blou<g ref="char:EOLhyphen"/>dy fight began, and after 700 broad ſides exchang'd, they came to grapling, with a re<g ref="char:EOLhyphen"/>ſolution to board each other; but it prov'd a work of extreme difficulty; for no ſooner had we aſſailed each other decks, but imme<g ref="char:EOLhyphen"/>diatly the ſmall ſhot flew ſo thick from the
+<pb n="5" facs="tcp:118366:3"/>murthering pieces, that both parties were often repelled and beaten off; and the victo<g ref="char:EOLhyphen"/>ry for a long time ſeemed dubious, til at laſt ſir George &amp; Cap. Lawſon with the Rain<g ref="char:EOLhyphen"/>bow and Fairfax, bore up to the head of the Vantrump, and his vice-admiral; and after ſeveral deſperate Onſets on both ſides, van<g ref="char:EOLhyphen"/>trump declined diſpute, and with much dif<g ref="char:EOLhyphen"/>ficulty hailed off; the viceadmiral was ſunk with two more; after which, the Redcoats of Col. Goffs Regiment, that were aboard the Speaker, being engaged with four of the Hol<g ref="char:EOLhyphen"/>landers, ſeeing no ways poſſible to free themſelves, reſolved to purchaſe their liberty, with the price of their blouds, otherwiſe to ſink by their ſides; in or<g ref="char:EOLhyphen"/>der whereunto, they plaid their Granadoes and fire<g ref="char:EOLhyphen"/>works, which did great execution, and at laſt fir'd one of their ſhips; the other three perceiving this ſad diſaſter, declined engagement; and ſoon after the whole Navy began to be in a Chaos of Confuſi<g ref="char:EOLhyphen"/>on; for divers of the Engliſh Frigats bearing up cloſe to their great ſhips, gave them three ſhot for one, in which action they performed ſingular ſer<g ref="char:EOLhyphen"/>vice; and amongſt the reſt, the Rubey came up,
+<pb n="6" facs="tcp:118366:4"/>and gave them a broad ſide with ten Guns: the Dutch-men anſwer'd him with the like ſalute: No ſooner had they exchanged four broad ſides, but im<g ref="char:EOLhyphen"/>mediatly came up the Star-Frigat, preſenting <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m with ſeven broad ſides one after another: and com<g ref="char:EOLhyphen"/>ing to grapling, the musketiers on both ſides, main<g ref="char:EOLhyphen"/>tained the Diſpute with great gallantry and reſolu<g ref="char:EOLhyphen"/>tion; till at laſt, the Engliſh Red-coats, conſiſting of Col. Ingoldsbys Regiment of Foot, plaid ſo faſt up<g ref="char:EOLhyphen"/>on them with ſmall ſhot and hand-granadoes, that they ſoon cleered the Decks, fired the Miſle and Main-ſail; and afterwards boarded two of the Hol<g ref="char:EOLhyphen"/>landers, killing 47, and ſurprized about one hundred and twenty: Many there were that leapt out of the Port-holes into the Sea, and drowned themſelves, by reaſon that they bid defiance to the Engliſh, and choſe rather to ſacrifice their lives in the mercileſs Ocean, then yield obedience unto them. The reſt of the Hollanders, being eleven in number, after a ſharp fight ran themſelves on ground neer Newport, and are ſince ſhip-wrackt.</p>
+            <p>Our whole Fleet was engaged for the ſpace of 7 hours, during which time Sir George Ayſcue per<g ref="char:EOLhyphen"/>formed ſingular ſervice; and at laſt ſunk their Vice-Admiral, carrying 40 Guns, but not without loſs; the Tryumph, Speaker, Victory, Garland, Fairfax, Ty<g ref="char:EOLhyphen"/>ger,
+<pb n="7" facs="tcp:118366:4"/>have been deeply engaged in the Commonwealths ſervice; and have deport<g ref="char:EOLhyphen"/>ed themſelves with ſingular dexterity a<g ref="char:EOLhyphen"/>gainſt Van-Trump, who, after a bloudy &amp; great engagement, was enforced to decline, and get off, to the protection of their Forts and Sconces; but not without great loſs, for we have received advertiſements, that Gen. Blake hath taken ſeven, ſunk two, and fired three, with the loſs of one ſhip. Van<g ref="char:EOLhyphen"/>trump is preparing for another engagement and ſhipping from ſeveral Ports and towns are coming to him: He hath alſo double man'd his ſhips, both with Sea-men and Land-men, who hath taken an Oath and Proteſtation to live and die together, and to fight it out to the laſt man.</p>
+            <p>The General hath ſent for ſix more fire<g ref="char:EOLhyphen"/>ſhips out of the Downs, and is reſolved to fire and deſtroy the Enemy in their Har<g ref="char:EOLhyphen"/>bors.
+<pb n="8" facs="tcp:118366:5"/>Since which time his Excellency hath taken two Merchants ſhips, richly laden, and two men of War; Sir George Ayſcue hath likewiſe taken ſe<g ref="char:EOLhyphen"/>ven, ſunk three, burned one, and diſperſed 45; a<g ref="char:EOLhyphen"/>bout 24 took a deſperate Reſolution, and ran them<g ref="char:EOLhyphen"/>ſelves a ground on the Coaſt of France, and are ſaid to be ſhipwrackt and ſunk between St. Mallows, St. Quintin, and Porto Rieux, Port-Towns upon the Coaſt of Britaign. The rek that eſcaped, are ſailed towards Cortoy and St. Valerii, in Picardy, and Caen in Normandy; but Sir George is in purſuit of them with 20 ſail; and hath taken five gallant merchant<g ref="char:EOLhyphen"/>men.</p>
+            <p>We hear that there is a general Riſing from 16 to 60; and thoſe that do refuſe to to engage, are to die without mercy. They are ſetting forth another great Fleet of 200 ſail, and the Zealanders have cho<g ref="char:EOLhyphen"/>ſen a new Admiral. In our laſt engagement, our loſs is eſteemed killed and wounded about 300. The E<g ref="char:EOLhyphen"/>nemies far greater.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard the Aſſurance, in the Downs,</hi> 
+                  <date>
+                     <hi>July</hi> 3. 1652.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>The Parl. are ſetting forth more ſhipping; and 700 foot ſouldiers are boarded.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
